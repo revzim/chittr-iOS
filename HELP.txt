@@ -1,0 +1,15 @@
+# Welcome to Chittr iOS Help!
+
+## Need Help With?
+
+### Starting the server?
+- Tap the gear icon, and tap the Start button to start the server.
+
+### Shutting down the server?
+- Tap the Running button (Same button as the start button, just different label & color now) to shutdown the server.
+
+### Connecting to a coworker/peer's chat server?
+- Enter the correct server address or tell your friend to bring up the QRCode that correlates to their server, so that you may use the built in QRCode scanner.
+
+### Do I need to be hosting a server to join a server?
+- No, you can use the cilent interface (Connect) to join & connect to any server, regardless if you are hosting or not.
